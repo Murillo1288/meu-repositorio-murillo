@@ -1,0 +1,8 @@
+entrada = input()
+
+print(entrada)
+
+nome = input('Qual o seu nome? ')
+senha = input('Qual a sua senha? ')
+dominio = input('Qual o seu dominio? ')
+print('ola', nome,',seja bem vindo ao meu mundo')                
